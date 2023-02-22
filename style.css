@@ -1,0 +1,43 @@
+
+.shopSaleButton{
+  background-color: white;
+  bottom: 180px;
+  right:200px;
+  width:120px;
+  height:45px;
+  font-size: 15px;
+
+}
+.shopALLButton{
+  background-color: black;
+  color: white;
+  border-color: white;
+  bottom: 180px;
+  right:50px;
+  width:120px;
+  height:45px;
+  font-size: 15px;
+}
+
+.nav-link{
+  font-size: 20px;
+  font-family: Archivo Narrow;
+}
+
+.text{
+  font-size: 100px;
+  padding-left: 200px;
+  font-family: Archivo Narrow;
+}
+.navbar-brand{
+ width: 130px;
+  margin-left: 80px;
+  margin-right: 40px;
+}
+.dropdown{
+font-family: Archivo Narrow;
+}
+.essential{
+  color:black;
+}
+
